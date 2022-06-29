@@ -5,3 +5,8 @@ conda install -c anaconda scikit-learn -y
 conda install -c conda-forge kaggle -y 
 conda install -c anaconda pandas -y
 conda install -c conda-forge ipython-sql -y
+
+conda install -c anaconda pandas-datareader -y
+conda install -c anaconda seaborn -y
+conda install -c conda-forge matplotlib -y
+conda install -c conda-forge yfinance -y
